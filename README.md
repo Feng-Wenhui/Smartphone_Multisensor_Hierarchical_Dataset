@@ -8,9 +8,9 @@ The public release of this dataset is a contribution of our paper, **A Multisens
 
 The complete processed dataset is distributed separately as `sensor_dataset_v1.0.zip` under Release v1.0.
 
-The release contains **23,193 sensor MAT samples** organized hierarchically: 13,203 indoor, 6,745 semi-open, and 3,245 outdoor. Indoor and semi-open paths follow `environment/scene/activity/sequence`; outdoor paths follow `environment/activity/sequence`. Each MAT contains sensor arrays and segment metadata.
+The release contains **23,193 sensor MAT samples** across **186 continuous recording sequences** organized hierarchically: 13,203 indoor, 6,745 semi-open, and 3,245 outdoor. Indoor and semi-open paths follow `environment/scene/activity/sequence`; outdoor paths follow `environment/activity/sequence`. Each MAT contains sensor arrays and segment metadata.
 
-The release contains the complete dataset: all 23,193 MAT samples organized hierarchically. The complete collection is available through the download link above.
+The release contains the complete dataset: all 23,193 MAT samples across 186 continuous recording sequences organized hierarchically. The complete collection is available through the download link above.
 
 ## Citation
 
